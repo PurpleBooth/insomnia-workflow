@@ -10,7 +10,7 @@ An alfred workflow to recreate what I used to use InsomniaX for.
 
 ### Installing
 
-Download the for [Insomnia.alfredworkflow](Insomnia.alfredworkflow) and
+Download the [Insomnia.alfredworkflow](Insomnia.alfredworkflow) and
 open it with Alfred.
 
 ## Contributing
