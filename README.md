@@ -35,6 +35,5 @@ who participated in this project.
 
 ## License
 
-This project is licensed under the [Attribution 4.0
-International](LICENSE.md) Creative Commons License - see the
+This project is licensed under the [The Unlicense](LICENSE.md) a license that dedicates code to the public domain - see the
 [LICENSE.md](LICENSE.md) file for details
